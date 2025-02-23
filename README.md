@@ -28,13 +28,14 @@
   </a>
 </div>
 
-<br>
-
+</br>
+</br>
 
 ## About Me
 - 백엔드 개발자를 꿈꾸는 예비개발자입니다.
 - Java를 중심으로 개발하며, 지금은 Flutter를 배우고 있어요.
 - 지금은 독서 기록 앱 [Shelfy](https://github.com/ekkang2/shelfy_team_project) 프로젝트를 진행 중입니다.
+</br>
 
 ## Stacks
 
@@ -55,8 +56,8 @@
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+	    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white">
           <br/>
-	    레디스 추가
           </div>
     </div>
 </br>
@@ -67,10 +68,11 @@
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
+	 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
+	 </br>
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-안드로이드스튜디오 추가?
  </div>
 
 </br>
