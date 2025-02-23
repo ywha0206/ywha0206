@@ -12,10 +12,11 @@
 </div>
 <br>
 <div align=center>
-
-
-
+	
+<img src="https://github.com/user-attachments/assets/387140c3-d4d9-4245-a723-f309d6a3f8c7" width="400" height="400"/>
+ <br>
  
+ <br>
   <a href="https://www.notion.so/16fb89c79cfe807b8c64f767e3b65f6b#16fb89c79cfe805cada5f2a2fe3a87db">
 	<img src="https://img.shields.io/badge/Notion 이력서-000000?style=plat&logo=notion&logoColor=white">
   </a>
@@ -30,17 +31,69 @@
 <br>
 
 
+## About Me
+- 백엔드 개발자를 꿈꾸는 예비개발자입니다.
+- Java를 중심으로 개발하며, 지금은 Flutter를 배우고 있어요.
+- 지금은 독서 기록 앱 [Shelfy](https://github.com/ekkang2/shelfy_team_project) 프로젝트를 진행 중입니다.
+
+## Stacks
+
+ <div style="text-align: left;">
+    <div  align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
+	  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white">
+           <br/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+          <br/>
+	    레디스 추가
+          </div>
+    </div>
+</br>
+
+## Tools
+
+ <div align="center">
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
+	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+안드로이드스튜디오 추가?
+ </div>
+
+</br>
+
+
+
 ## Project Overview
+
+<div align="center">
 
 | **작업 기한**        | **프로젝트 명**                     | **담당 파트**  |  **Repository**  | **비고**|
 |-----------------|-------------------------------|-------|-------|-----------|
-| 24.01.20 ~ 진행중 | Shelfy 독서 기록 앱 프로젝트 | 독서 기록 기능 | [Shelfy](https://github.com/jin123346/APPlusMarket_BE) ||
+| 24.01.20 ~ 진행중 | Shelfy 독서 기록 앱 프로젝트 | 독서 기록 기능 | [Shelfy](https://github.com/ekkang2/shelfy_team_project) ||
 | 24.11.16~24.12.26 | Plantry 그룹웨어 웹 프로젝트    | 팀장, 프로젝트 설정, 회원 기능 | [Plantry](https://github.com/subin3578/antwork) |[시연영상](https://www.youtube.com/watch?v=gYq8mfhy5Bk)|
 | 24.10.18~24.11.15 | LotteOn 쇼핑몰 웹 프로젝트          | 장바구니, 주문 | [LotteOn](https://github.com/subin3578/TeamProject-LotteOn4) |[시연영상](https://www.youtube.com/watch?v=rM2Cj0PMg1Q&t=350s)|
 | 24.09.27~24.10.04 | farmstory 농작물 거래 웹 프로젝트  | 회원 기능 | [farmstory](https://github.com/subin3578/farmstory_team3) ||
+
+
+</div>
 <br/>
 
 
+## GitHub Stats
 
 <div align="center">
 	
