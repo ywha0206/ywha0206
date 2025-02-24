@@ -13,11 +13,15 @@
 <br>
 <div align=center>
 	
-<img src="https://github.com/user-attachments/assets/387140c3-d4d9-4245-a723-f309d6a3f8c7" width="400" height="400"/>
+ <br/>
+
+
+
+
+  <img src="https://github.com/user-attachments/assets/387140c3-d4d9-4245-a723-f309d6a3f8c7" width="400" height="400"/>
+   <br/>
  <br>
- 
- <br>
-  <a href="https://www.notion.so/16fb89c79cfe807b8c64f767e3b65f6b#16fb89c79cfe805cada5f2a2fe3a87db">
+   <a href="https://www.notion.so/16fb89c79cfe807b8c64f767e3b65f6b#16fb89c79cfe805cada5f2a2fe3a87db">
 	<img src="https://img.shields.io/badge/Notion 이력서-000000?style=plat&logo=notion&logoColor=white">
   </a>
     <a href="https://dev-yeonwha.tistory.com/db">
@@ -26,6 +30,7 @@
     <a href="ppyyhh3285@gmail.com">
 	<img src="https://img.shields.io/badge/gmail 주소-EA4335?style=plat&logo=gmail&logoColor=white">
   </a>
+ <br/>
 </div>
 
 </br>
@@ -83,7 +88,7 @@
 
 <div align="center">
 
-| **작업 기한**        | **프로젝트 명**                     | **담당 파트**  |  **Repository**  | **비고**|
+| **작업 기간**        | **프로젝트 명**                     | **담당 파트**  |  **Repository**  | **비고**|
 |-----------------|-------------------------------|-------|-------|-----------|
 | 24.01.20 ~ 진행중 | Shelfy 독서 기록 앱 프로젝트 | 독서 기록 기능 | [Shelfy](https://github.com/ekkang2/shelfy_team_project) |진행 중|
 | 24.11.16~24.12.26 | Plantry 그룹웨어 웹 프로젝트    | 팀장, 프로젝트 설정, 회원 기능 | [Plantry](https://github.com/subin3578/antwork) |[시연영상](https://www.youtube.com/watch?v=gYq8mfhy5Bk)|
@@ -94,6 +99,17 @@
 </div>
 <br/>
 
+## 기술 역량
+
+- Spring Boot 기반 RESTFul API 설계
+- RDBS, NoSQL(MongoDB)를 활용한 데이터 구조 설계
+- React, JavaScript를 활용한 웹 애플리케이션 개발
+- HTML과 CSS를 이용한 웹 디자인 경험
+- AWS, EC2, Docker를 활용한 클라우드 환경 구축 경험
+- Git action을 이용한 CI/CD 파이프라인 구축, 자동 배포
+- 앱 개발 능력 향상을 위해 Flutter 학습 중
+
+<br/>
 
 ## GitHub Stats
 
@@ -109,7 +125,11 @@
 
 <br/>
 Contect Me : ppyyhh3285@gamil.com
-
+<br/>
+<br/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fywha0206&count_bg=%23D5D5D5&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br/>
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
