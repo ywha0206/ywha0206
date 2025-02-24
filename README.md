@@ -34,7 +34,7 @@
 ## About Me
 - 백엔드 개발자를 꿈꾸는 예비개발자입니다.
 - Java를 중심으로 개발하며, 지금은 Flutter를 배우고 있어요.
-- 지금은 독서 기록 앱 [Shelfy](https://github.com/ekkang2/shelfy_team_project) 프로젝트를 진행 중입니다.
+- 독서 기록 앱 [Shelfy](https://github.com/ekkang2/shelfy_team_project) 프로젝트를 진행 중입니다.
 </br>
 
 ## Stacks
@@ -45,6 +45,7 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+	    	    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white">
           <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
@@ -56,7 +57,6 @@
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-	    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white">
           <br/>
           </div>
     </div>
