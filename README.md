@@ -5,42 +5,47 @@
 	
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=42dot+Sans&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello%2C+World!+3D+%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C+0%EA%B3%BC+1%EC%9D%98+%EC%84%B8%EA%B3%84%EB%A1%9C" alt="Typing SVG" /></a>
 <br>
-안녕하세요, 3D 애니메이터에서 개발자로 전향한 <strong> 박연화</strong>입니다.
+안녕하세요, 3D 애니메이터에서 개발자가 된 <strong>박연화</strong>입니다.
 
  
 
 </div>
-<br>
+
 <div align=center>
 	
  <br/>
 
 
+  
+| **이메일** | **포트폴리오** | **기술 블로그** | **프로젝트 저장소** | **유튜브** |
+|:----------:|:-------------:|:--------------:|:------------------:|:--------------:|
+| <a href="mailto:ppyyhh3285@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/16fb89c79cfe807b8c64f767e3b65f6b"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> | <a href="https://dev-yeonwha.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="https://github.com/ywha0206?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://www.youtube.com/@parkparkk?si=GpKZ27_qY297vJd3"><img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
 
-
-  <img src="https://github.com/user-attachments/assets/387140c3-d4d9-4245-a723-f309d6a3f8c7" width="400" height="400"/>
-   <br/>
- <br>
-   <a href="https://www.notion.so/16fb89c79cfe807b8c64f767e3b65f6b#16fb89c79cfe805cada5f2a2fe3a87db">
-	<img src="https://img.shields.io/badge/Notion 이력서-000000?style=plat&logo=notion&logoColor=white">
-  </a>
-    <a href="https://dev-yeonwha.tistory.com/db">
-	<img src="https://img.shields.io/badge/ywha's 개발 블로그-000000?style=plat&logo=tistory&logoColor=white">
-  </a>
-    <a href="ppyyhh3285@gmail.com">
-	<img src="https://img.shields.io/badge/gmail 주소-EA4335?style=plat&logo=gmail&logoColor=white">
-  </a>
  <br/>
 </div>
-
-</br>
 </br>
 
 ## About Me
 - 백엔드 개발자를 꿈꾸는 예비개발자입니다.
-- Java를 중심으로 개발하며, 지금은 Flutter를 배우고 있어요.
-- 독서 기록 앱 [Shelfy](https://github.com/ekkang2/shelfy_team_project) 프로젝트를 진행 중입니다.
+- Java를 중심으로 개발하며, 지금은 Flutter를 배우고 있습니다.
+- 독서 기록 앱 프로젝트 [ [Shelfy](https://github.com/ekkang2/shelfy_team_project) ] 를 진행 중입니다.
 </br>
+
+
+## Project Overview
+
+<div align="center">
+
+| **작업 기간**        | **프로젝트**                     | **역할**  |  **Repository**  | **비고**|
+|-----------------|-------------------------------|-------|-------|-----------|
+| 24.01.20 ~ 진행 중 | [Shelfy] 독서 기록 앱 프로젝트 | 독서 기록 기능 | [🔗Shelfy](https://github.com/ekkang2/shelfy_team_project) |진행 중|
+| 24.11.16~24.12.26 | [Plantry] 그룹웨어 웹 프로젝트    | 팀장, 프로젝트 설정, 회원 기능 | [🔗Plantry](https://github.com/subin3578/antwork) |[시연영상](https://www.youtube.com/watch?v=gYq8mfhy5Bk)|
+| 24.10.18~24.11.15 | [LotteOn] 쇼핑몰 웹 프로젝트          | 장바구니, 주문 | [🔗LotteOn](https://github.com/subin3578/TeamProject-LotteOn4) |[시연영상](https://www.youtube.com/watch?v=rM2Cj0PMg1Q&t=350s)|
+| 24.09.27~24.10.04 | [farmstory] 농작물 거래 웹 프로젝트  | 회원 기능 | [🔗farmstory](https://github.com/subin3578/farmstory_team3) ||
+
+
+</div>
+<br/>
 
 ## Stacks
 
@@ -77,27 +82,16 @@
 	 </br>
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+ 	</br>
+	<img src="https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white" />
+	<img src="https://img.shields.io/badge/Nuke-000000?style=flat&logo=Nuke&logoColor=white" />
+	<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=unrealengine&logoColor=white">
+ 
  </div>
 
 </br>
 
-
-
-## Project Overview
-
-<div align="center">
-
-| **작업 기간**        | **프로젝트 명**                     | **담당 파트**  |  **Repository**  | **비고**|
-|-----------------|-------------------------------|-------|-------|-----------|
-| 24.01.20 ~ 진행중 | Shelfy 독서 기록 앱 프로젝트 | 독서 기록 기능 | [Shelfy](https://github.com/ekkang2/shelfy_team_project) |진행 중|
-| 24.11.16~24.12.26 | Plantry 그룹웨어 웹 프로젝트    | 팀장, 프로젝트 설정, 회원 기능 | [Plantry](https://github.com/subin3578/antwork) |[시연영상](https://www.youtube.com/watch?v=gYq8mfhy5Bk)|
-| 24.10.18~24.11.15 | LotteOn 쇼핑몰 웹 프로젝트          | 장바구니, 주문 | [LotteOn](https://github.com/subin3578/TeamProject-LotteOn4) |[시연영상](https://www.youtube.com/watch?v=rM2Cj0PMg1Q&t=350s)|
-| 24.09.27~24.10.04 | farmstory 농작물 거래 웹 프로젝트  | 회원 기능 | [farmstory](https://github.com/subin3578/farmstory_team3) ||
-
-
-</div>
-<br/>
 
 ## 기술 역량
 
