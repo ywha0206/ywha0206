@@ -21,7 +21,11 @@
 |:----------:|:-------------:|:--------------:|:------------------:|:--------------:|
 | <a href="mailto:ppyyhh3285@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/16fb89c79cfe807b8c64f767e3b65f6b"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> | <a href="https://dev-yeonwha.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="https://github.com/ywha0206?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://www.youtube.com/@parkparkk?si=GpKZ27_qY297vJd3"><img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
 
- <br/>
+
+<br/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fywha0206&count_bg=%23D5D5D5&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+
 </div>
 </br>
 
@@ -115,13 +119,7 @@
 
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
-
-
-<br/>
-Contect Me : ppyyhh3285@gamil.com
-<br/>
-<br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fywha0206&count_bg=%23D5D5D5&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<p>ppyyhh3285@gamil.com</p>
 <br/>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
