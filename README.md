@@ -102,13 +102,15 @@
 
 ## 기술 역량
 
-- Spring Boot 기반 RESTFul API 설계
-- RDBS, NoSQL(MongoDB)를 활용한 데이터 구조 설계
-- React, JavaScript를 활용한 웹 애플리케이션 개발
-- HTML과 CSS를 이용한 웹 디자인 경험
-- AWS, EC2, Docker를 활용한 클라우드 환경 구축 경험
-- Git action을 이용한 CI/CD 파이프라인 구축, 자동 배포
-- 앱 개발 능력 향상을 위해 Flutter 학습 중
+- Spring Boot 기반의 RESTful API 설계 및 구현 경험
+- RDBMS(MySQL) 및 NoSQL(MongoDB)를 활용한 데이터베이스 구조 설계
+- React와 JavaScript를 활용한 동적인 웹 애플리케이션 개발 경험
+- HTML/CSS를 이용한 반응형 웹 디자인 구현 경험
+- AWS EC2, Docker를 활용한 클라우드 환경 구축 및 배포 경험
+- GitHub Actions를 이용한 CI/CD 파이프라인 구축 및 자동 배포 설정 경험
+- 외부 API(도서 검색 API)를 프로젝트에 통합하여 서비스 구현 경험
+- Flutter 위젯을 활용한 UI 설계 및 Riverpod를 활용한 효율적인 상태 관리 경험
+
 
 <br/>
 
