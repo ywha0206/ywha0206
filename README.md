@@ -23,16 +23,19 @@
 
 
 <br/>
+<!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fywha0206&count_bg=%23D5D5D5&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
+-->
 
 </div>
 </br>
 
 ## About Me
-- 백엔드 개발자를 꿈꾸는 예비개발자입니다.
-- Java를 중심으로 개발하며, 지금은 Flutter를 배우고 있습니다.
-- 독서 기록 앱 프로젝트 [ [Shelfy](https://github.com/ekkang2/shelfy_team_project) ] 를 진행 중입니다.
+- 백엔드 개발자를 꿈꾸는 예비 개발자입니다.
+- **Java**를 중심으로 개발 역량을 키우고 있으며, **Spring Boot**, **Flutter**, **React** 등 다양한 기술 스택을 활용할 수 있습니다.
+- 현재 컴퓨터 공학 기초 지식을 탄탄히 다지기 위해 CS 개념(운영체제, 네트워크 등)을 공부 중입니다. 
+- 개발자로서 실무 능력을 키우기 위해 **정보처리기사** 실기 과정을 준비하고 있습니다.
+- 협업과 지속적인 학습을 통해 더 나은 개발자가 되는 것을 목표로 하고 있습니다.
 </br>
 
 
