@@ -123,7 +123,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywha0206&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" height="196" />
 
 
-![](./profile-3d-contrib/profile-season-animate.svg)
 <p>ppyyhh3285@gamil.com</p>
 <br/>
 <br/>
