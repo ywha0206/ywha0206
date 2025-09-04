@@ -2,10 +2,7 @@
 <div align="center">
 	
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-	
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=42dot+Sans&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello%2C+World!+3D+%EC%84%B8%EC%83%81%EC%97%90%EC%84%9C+0%EA%B3%BC+1%EC%9D%98+%EC%84%B8%EA%B3%84%EB%A1%9C" alt="Typing SVG" /></a>
-<br>
-안녕하세요, 3D 애니메이터에서 개발자가 된 <strong>박연화</strong>입니다.
+
 
  
 
@@ -13,16 +10,7 @@
 
 <div align=center>
 	
- <br/>
 
-
-  
-| **이메일** | **포트폴리오** | **기술 블로그** | **프로젝트 저장소** | **유튜브** |
-|:----------:|:-------------:|:--------------:|:------------------:|:--------------:|
-| <a href="mailto:ppyyhh3285@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/16fb89c79cfe807b8c64f767e3b65f6b"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> | <a href="https://dev-yeonwha.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="https://github.com/ywha0206?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://www.youtube.com/@parkparkk?si=GpKZ27_qY297vJd3"><img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
-
-
-<br/>
 <!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fywha0206&count_bg=%23D5D5D5&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 -->
@@ -30,18 +18,25 @@
 </div>
 </br>
 
-## About Me
-- 백엔드 개발자를 꿈꾸는 예비 개발자입니다.
-- **Java**를 중심으로 개발 역량을 키우고 있으며, **Spring Boot**, **Flutter**, **React** 등 다양한 기술 스택을 활용할 수 있습니다.
-- 현재 컴퓨터 공학 기초 지식을 탄탄히 다지기 위해 CS 개념(운영체제, 네트워크 등)을 공부 중입니다. 
-- 개발자로서 실무 능력을 키우기 위해 **정보처리기사** 실기 과정을 준비하고 있습니다.
-<!-- - 협업과 지속적인 학습을 통해 더 나은 개발자가 되는 것을 목표로 하고 있습니다. -->
-</br>
-
-
-## Project Overview
 
 <div align="center">
+
+<h3> Links </h3>
+ 
+| **이메일** | **포트폴리오** | **기술 블로그** | **프로젝트 저장소** | **유튜브** |
+|:----------:|:-------------:|:--------------:|:------------------:|:--------------:|
+| <a href="mailto:ppyyhh3285@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/16fb89c79cfe807b8c64f767e3b65f6b"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> | <a href="https://dev-yeonwha.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="https://github.com/ywha0206?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://www.youtube.com/@parkparkk?si=GpKZ27_qY297vJd3"><img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
+
+</div>
+
+
+<br/>
+
+
+
+<div align="center">
+
+<h3> Projects</h3>
 
 | **작업 기간**        | **프로젝트**                     | **역할**  |  **Repository**  | **비고**|
 |----------------------|----------------------------------|-----------|-------|-----------|
@@ -50,11 +45,12 @@
 | 24.10.18~24.11.15    | [LotteOn] 쇼핑몰 웹 프로젝트          | 장바구니, 주문 | [🔗LotteOn](https://github.com/ywha0206/LotteOn) |[시연영상](https://www.youtube.com/watch?v=rM2Cj0PMg1Q&t=350s)|
 | 24.09.27~24.10.04    | [farmstory] 농작물 거래 웹 프로젝트  | 회원 기능 | [🔗farmstory](https://github.com/ywha0206/FarmStory) ||
 
-
 </div>
 <br/>
 
-## Stacks
+<div align="center">
+
+<h3> Stacks </h3>
 
  <div style="text-align: left;">
     <div  align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
@@ -78,10 +74,10 @@
           </div>
     </div>
 </br>
-
-## Tools
+</div>
 
  <div align="center">
+		<h3>Tools</h3>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -100,21 +96,8 @@
 </br>
 
 
-## 기술 역량
-
-- Spring Boot 기반의 RESTful API 설계 및 구현 경험
-- RDBMS(MySQL) 및 NoSQL(MongoDB)를 활용한 데이터베이스 구조 설계
-- React와 JavaScript를 활용한 동적인 웹 애플리케이션 개발 경험
-- HTML/CSS를 이용한 반응형 웹 디자인 구현 경험
-- AWS EC2, Docker를 활용한 클라우드 환경 구축 및 배포 경험
-- GitHub Actions를 이용한 CI/CD 파이프라인 구축 및 자동 배포 설정 경험
-- 외부 API(도서 검색 API)를 프로젝트에 통합하여 서비스 구현 경험
-- Flutter 위젯을 활용한 UI 설계 및 Riverpod를 활용한 효율적인 상태 관리 경험
-
-
 <br/>
 
-## GitHub Stats
 
 <div align="center">
 
@@ -122,8 +105,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywha0206)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywha0206&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" height="196" />
 
-
-<p>ppyyhh3285@gamil.com</p>
+<br/>
+<strong>ppyyhh3285@gamil.com</strong>
 <br/>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
